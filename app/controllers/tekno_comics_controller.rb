@@ -1,0 +1,2 @@
+class TeknoComicsController < ApplicationController
+end

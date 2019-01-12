@@ -1,0 +1,2 @@
+module MarvelHelper
+end

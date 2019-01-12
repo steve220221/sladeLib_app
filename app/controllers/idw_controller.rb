@@ -1,0 +1,2 @@
+class IdwController < ApplicationController
+end

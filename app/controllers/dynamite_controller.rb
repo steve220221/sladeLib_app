@@ -1,0 +1,2 @@
+class DynamiteController < ApplicationController
+end
